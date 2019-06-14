@@ -50,9 +50,9 @@ class SearchResults extends React.Component {
 };
 
 const mapStateToProps = (state, ownProps) => {
-  if (ownProps.match.params) {
-    return { formData: ownProps.match.params };
-  }
+  //  if (!state.validData) {
+  //   return { formData: ownProps.match.params };
+  // }
 
   const { startingPlace, endingPlace } = state.searchForm;
   
