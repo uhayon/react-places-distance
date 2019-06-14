@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Palermo",
+        "country": "Argentina",
+        "geo": {
+            "lat": -34.5734321,
+            "lng": -58.438525
+        }
+    },
+    {
+        "name": "Belgrano",
+        "country": "Argentina",
+        "geo": {
+            "lat": -34.5554685,
+            "lng": -58.4682956
+        }
+    },
+    {
+        "name": "Rosario",
+        "country": "Argentina",
+        "geo": {
+            "lat": -32.9521898,
+            "lng": -60.7666792
+        }
+    },
+    {
+        "name": "Punta del Este",
+        "country": "Uruguay",
+        "geo": {
+            "lat": -32.9521898,
+            "lng": -60.7666792
+        }
+    },
+    {
+        "name": "New York",
+        "country": "United States",
+        "geo": {
+            "lat": 40.6974034,
+            "lng": -74.1197634
+        }
+    },
+    {
+        "name": "Miami Beach",
+        "country": "United States",
+        "geo": {
+            "lat": 25.8102373,
+            "lng": -80.1751609
+        }
+    }
+]
